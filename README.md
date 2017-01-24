@@ -3,6 +3,7 @@
 - 基于**默认主题**。
 - 语法高亮全部采用**微软雅黑**字体
 - 自动补全 fork 自 [Hanlin-Dong/OpenSEESAutoComplete](https://github.com/Hanlin-Dong/OpenSEESAutoComplete)。
+
 ## 安装
 1. 下载 `opensees-lang-junjie.xml` 和 `opensees-AutoComplete.xml`。
 2. **语法高亮**：打开 Notepad++，`语言`-`自定义语言格式…`-`导入`，选择 `opensees-lang-junjie.xml`。
